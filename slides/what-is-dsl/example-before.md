@@ -1,4 +1,4 @@
-# Kotlin DSL Example 
+## Kotlin DSL Example 
 DSLは構造と文法を持つ。
 
 普通に書いたケース
