@@ -1,12 +1,11 @@
 Reveal.initialize({
     controls: true,
     progress: true,
-    history: true,
     slideNumber: true,
+    history: true,
     center: false,
-    transition: 'convex',
+    transition: 'none',
     viewDistance: 3,
-    width: 1080,
 
     dependencies: [
         {
