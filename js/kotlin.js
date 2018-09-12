@@ -6,7 +6,9 @@ Reveal.initialize({
     center: false,
     transition: 'none',
     viewDistance: 3,
-
+    width: 1440,
+    height: 810,
+    
     dependencies: [
         {
             src: 'node_modules/reveal.js/lib/js/classList.js',
