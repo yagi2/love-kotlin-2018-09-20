@@ -1,4 +1,4 @@
-# Kotlin DSL  
+# Kotlin DSL Example   
 DSLは構造と文法を持つ。
 
 DSLを用いたケース
@@ -13,5 +13,6 @@ val html = createHtml().
     }
 ```
   
-ぱっと見の明らかなわかりやすさ😤  
+<br />
+ぱっと見の圧倒的わかりやすさ😤  
 <a href="https://github.com/Kotlin/kotlinx.html" target="_blank">Kotlin/kotlinx.html: Kotlin DSL for HTML</a>
