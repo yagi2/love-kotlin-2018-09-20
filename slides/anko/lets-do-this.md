@@ -17,4 +17,4 @@ linearLayout {
 }
 ```
 
-`LinearLayout`と`TextView`を作れて`LayoutParams`も指定できるような。 
+`LinearLayout`と`TextView`を作れて`LayoutParams`も指定できるような 
