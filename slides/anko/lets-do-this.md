@@ -9,7 +9,7 @@ AnkoのようなDSLでレイアウトをビルドするようなものを作っ�
 ```Kotlin
 linearLayout {
     textView {
-        text = "Hello,"
+        text = "Hello,Kotlin DSL!"
         textColor = Color.RED
     }.lparams {
         margin = dip(10)
@@ -17,4 +17,4 @@ linearLayout {
 }
 ```
 
-`LinearLayout`と`TextView`を作れて`LayoutParams`も指定できるような 
+`LinearLayout`と`TextView`を作れて`LayoutParams`も指定できるように
