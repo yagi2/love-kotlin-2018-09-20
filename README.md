@@ -1,7 +1,7 @@
 # Kotlin DSLを理解してみる  
 [集まれKotlin好き！Kotlin愛好会 vol4 - connpass](https://love-kotlin.connpass.com/event/100047/)  
 
-Speaker Deck : [Kotlin DSLを理解してみる - Speaker Deck](https://speakerdeck.com/yagi2/understanding-kotlin-dsl)  
+Speaker Deck : [Kotlin DSLを理解してみる / Understanding Kotlin DSL - Speaker Deck](https://speakerdeck.com/yagi2/understanding-kotlin-dsl)  
 
 links:  
 [Kotlin/kotlinx.html: Kotlin DSL for HTML](https://github.com/Kotlin/kotlinx.html)  
